@@ -1,0 +1,389 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		82388F5E245C44C300043B98 /* お気に召すまま.txt in Resources */ = {isa = PBXBuildFile; fileRef = 82388F54245C44C200043B98 /* お気に召すまま.txt */; };
+		82388F5F245C44C300043B98 /* 愛を伝えたいだとか.txt in Resources */ = {isa = PBXBuildFile; fileRef = 82388F55245C44C200043B98 /* 愛を伝えたいだとか.txt */; };
+		82388F60245C44C300043B98 /* Must Have Been The Wind.txt in Resources */ = {isa = PBXBuildFile; fileRef = 82388F56245C44C200043B98 /* Must Have Been The Wind.txt */; };
+		82388F61245C44C300043B98 /* Open Door.txt in Resources */ = {isa = PBXBuildFile; fileRef = 82388F57245C44C200043B98 /* Open Door.txt */; };
+		82388F62245C44C300043B98 /* Wish You Were Gay.txt in Resources */ = {isa = PBXBuildFile; fileRef = 82388F58245C44C200043B98 /* Wish You Were Gay.txt */; };
+		82388F63245C44C300043B98 /* Take The A Train.txt in Resources */ = {isa = PBXBuildFile; fileRef = 82388F59245C44C200043B98 /* Take The A Train.txt */; };
+		82388F64245C44C300043B98 /* The Best Day.txt in Resources */ = {isa = PBXBuildFile; fileRef = 82388F5A245C44C200043B98 /* The Best Day.txt */; };
+		82388F65245C44C300043B98 /* Teenage Dream.txt in Resources */ = {isa = PBXBuildFile; fileRef = 82388F5B245C44C200043B98 /* Teenage Dream.txt */; };
+		82388F66245C44C300043B98 /* Kujira.txt in Resources */ = {isa = PBXBuildFile; fileRef = 82388F5C245C44C200043B98 /* Kujira.txt */; };
+		82388F67245C44C300043B98 /* たばこ.txt in Resources */ = {isa = PBXBuildFile; fileRef = 82388F5D245C44C200043B98 /* たばこ.txt */; };
+		824FAD04245AC8D200B9B7BE /* MusicPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 824FAD03245AC8D200B9B7BE /* MusicPickerViewController.swift */; };
+		824FAD06245AD3D700B9B7BE /* MusicPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 824FAD05245AD3D700B9B7BE /* MusicPlayerViewController.swift */; };
+		824FAD0B245B0BB500B9B7BE /* Fireflies.txt in Resources */ = {isa = PBXBuildFile; fileRef = 824FAD0A245B0BB500B9B7BE /* Fireflies.txt */; };
+		826AA3DC245861F200A48FE0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826AA3DB245861F200A48FE0 /* AppDelegate.swift */; };
+		826AA3DE245861F200A48FE0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826AA3DD245861F200A48FE0 /* SceneDelegate.swift */; };
+		826AA3E3245861F200A48FE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 826AA3E1245861F200A48FE0 /* Main.storyboard */; };
+		826AA3E5245861F300A48FE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 826AA3E4245861F300A48FE0 /* Assets.xcassets */; };
+		826AA3E8245861F300A48FE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 826AA3E6245861F300A48FE0 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		82388F54245C44C200043B98 /* お気に召すまま.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "お気に召すまま.txt"; sourceTree = "<group>"; };
+		82388F55245C44C200043B98 /* 愛を伝えたいだとか.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "愛を伝えたいだとか.txt"; sourceTree = "<group>"; };
+		82388F56245C44C200043B98 /* Must Have Been The Wind.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Must Have Been The Wind.txt"; sourceTree = "<group>"; };
+		82388F57245C44C200043B98 /* Open Door.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Open Door.txt"; sourceTree = "<group>"; };
+		82388F58245C44C200043B98 /* Wish You Were Gay.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Wish You Were Gay.txt"; sourceTree = "<group>"; };
+		82388F59245C44C200043B98 /* Take The A Train.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Take The A Train.txt"; sourceTree = "<group>"; };
+		82388F5A245C44C200043B98 /* The Best Day.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Best Day.txt"; sourceTree = "<group>"; };
+		82388F5B245C44C200043B98 /* Teenage Dream.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Teenage Dream.txt"; sourceTree = "<group>"; };
+		82388F5C245C44C200043B98 /* Kujira.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Kujira.txt; sourceTree = "<group>"; };
+		82388F5D245C44C200043B98 /* たばこ.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "たばこ.txt"; sourceTree = "<group>"; };
+		824FAD03245AC8D200B9B7BE /* MusicPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicPickerViewController.swift; sourceTree = "<group>"; };
+		824FAD05245AD3D700B9B7BE /* MusicPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicPlayerViewController.swift; sourceTree = "<group>"; };
+		824FAD0A245B0BB500B9B7BE /* Fireflies.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Fireflies.txt; sourceTree = "<group>"; };
+		826AA3D8245861F200A48FE0 /* Moody.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moody.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		826AA3DB245861F200A48FE0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		826AA3DD245861F200A48FE0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		826AA3E2245861F200A48FE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		826AA3E4245861F300A48FE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		826AA3E7245861F300A48FE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		826AA3E9245861F300A48FE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		826AA3D5245861F200A48FE0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		826AA3CF245861F200A48FE0 = {
+			isa = PBXGroup;
+			children = (
+				826AA3DA245861F200A48FE0 /* Moody */,
+				826AA3D9245861F200A48FE0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		826AA3D9245861F200A48FE0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				826AA3D8245861F200A48FE0 /* Moody.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		826AA3DA245861F200A48FE0 /* Moody */ = {
+			isa = PBXGroup;
+			children = (
+				82388F55245C44C200043B98 /* 愛を伝えたいだとか.txt */,
+				82388F5C245C44C200043B98 /* Kujira.txt */,
+				82388F56245C44C200043B98 /* Must Have Been The Wind.txt */,
+				82388F57245C44C200043B98 /* Open Door.txt */,
+				82388F59245C44C200043B98 /* Take The A Train.txt */,
+				82388F5B245C44C200043B98 /* Teenage Dream.txt */,
+				82388F5A245C44C200043B98 /* The Best Day.txt */,
+				82388F58245C44C200043B98 /* Wish You Were Gay.txt */,
+				82388F54245C44C200043B98 /* お気に召すまま.txt */,
+				82388F5D245C44C200043B98 /* たばこ.txt */,
+				824FAD0A245B0BB500B9B7BE /* Fireflies.txt */,
+				826AA3DB245861F200A48FE0 /* AppDelegate.swift */,
+				826AA3DD245861F200A48FE0 /* SceneDelegate.swift */,
+				826AA3E1245861F200A48FE0 /* Main.storyboard */,
+				826AA3E4245861F300A48FE0 /* Assets.xcassets */,
+				826AA3E6245861F300A48FE0 /* LaunchScreen.storyboard */,
+				826AA3E9245861F300A48FE0 /* Info.plist */,
+				824FAD03245AC8D200B9B7BE /* MusicPickerViewController.swift */,
+				824FAD05245AD3D700B9B7BE /* MusicPlayerViewController.swift */,
+			);
+			path = Moody;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		826AA3D7245861F200A48FE0 /* Moody */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 826AA3EC245861F300A48FE0 /* Build configuration list for PBXNativeTarget "Moody" */;
+			buildPhases = (
+				826AA3D4245861F200A48FE0 /* Sources */,
+				826AA3D5245861F200A48FE0 /* Frameworks */,
+				826AA3D6245861F200A48FE0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Moody;
+			productName = Moody;
+			productReference = 826AA3D8245861F200A48FE0 /* Moody.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		826AA3D0245861F200A48FE0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1130;
+				LastUpgradeCheck = 1130;
+				ORGANIZATIONNAME = "SWU Mac";
+				TargetAttributes = {
+					826AA3D7245861F200A48FE0 = {
+						CreatedOnToolsVersion = 11.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 826AA3D3245861F200A48FE0 /* Build configuration list for PBXProject "Moody" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 826AA3CF245861F200A48FE0;
+			productRefGroup = 826AA3D9245861F200A48FE0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				826AA3D7245861F200A48FE0 /* Moody */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		826AA3D6245861F200A48FE0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				82388F67245C44C300043B98 /* たばこ.txt in Resources */,
+				82388F60245C44C300043B98 /* Must Have Been The Wind.txt in Resources */,
+				82388F65245C44C300043B98 /* Teenage Dream.txt in Resources */,
+				82388F61245C44C300043B98 /* Open Door.txt in Resources */,
+				82388F5E245C44C300043B98 /* お気に召すまま.txt in Resources */,
+				82388F64245C44C300043B98 /* The Best Day.txt in Resources */,
+				82388F62245C44C300043B98 /* Wish You Were Gay.txt in Resources */,
+				82388F66245C44C300043B98 /* Kujira.txt in Resources */,
+				826AA3E8245861F300A48FE0 /* LaunchScreen.storyboard in Resources */,
+				824FAD0B245B0BB500B9B7BE /* Fireflies.txt in Resources */,
+				826AA3E5245861F300A48FE0 /* Assets.xcassets in Resources */,
+				82388F5F245C44C300043B98 /* 愛を伝えたいだとか.txt in Resources */,
+				826AA3E3245861F200A48FE0 /* Main.storyboard in Resources */,
+				82388F63245C44C300043B98 /* Take The A Train.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		826AA3D4245861F200A48FE0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				824FAD04245AC8D200B9B7BE /* MusicPickerViewController.swift in Sources */,
+				824FAD06245AD3D700B9B7BE /* MusicPlayerViewController.swift in Sources */,
+				826AA3DC245861F200A48FE0 /* AppDelegate.swift in Sources */,
+				826AA3DE245861F200A48FE0 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		826AA3E1245861F200A48FE0 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				826AA3E2245861F200A48FE0 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		826AA3E6245861F300A48FE0 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				826AA3E7245861F300A48FE0 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		826AA3EA245861F300A48FE0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		826AA3EB245861F300A48FE0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		826AA3ED245861F300A48FE0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Moody/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.swu.Moody;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		826AA3EE245861F300A48FE0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Moody/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.swu.Moody;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		826AA3D3245861F200A48FE0 /* Build configuration list for PBXProject "Moody" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				826AA3EA245861F300A48FE0 /* Debug */,
+				826AA3EB245861F300A48FE0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		826AA3EC245861F300A48FE0 /* Build configuration list for PBXNativeTarget "Moody" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				826AA3ED245861F300A48FE0 /* Debug */,
+				826AA3EE245861F300A48FE0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 826AA3D0245861F200A48FE0 /* Project object */;
+}
